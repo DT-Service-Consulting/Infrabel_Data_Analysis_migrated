@@ -1,0 +1,14 @@
+pandas>=1.0.0
+numpy>=1.18.0
+matplotlib>=3.0.0
+seaborn>=0.10.0
+scipy>=1.4.0
+scikit-learn>=0.22.0
+shapely>=1.7.0
+geopandas>=0.7.0
+folium>=0.11.0
+contextily>=1.0.0
+plotly>=5.0.0
+streamlit
+streamlit-folium
+streamlit_folium
